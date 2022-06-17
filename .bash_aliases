@@ -1,0 +1,1 @@
+alias gitsha='git rev-parse HEAD'
